@@ -92,3 +92,10 @@ console.log(newArray);
 
 ```
 
+
+### ***Course:***
+
+[Frontend Development Basics, Innopolis University](https://cat.2035.university/rall/course/11957/?project_id=41&)
+
+**Educational project on GitHub:** [online store](https://github.com/LynnKirsch/Educational-project-Innopolis-University.git)
+

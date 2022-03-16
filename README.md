@@ -1,2 +1,2 @@
-https://LynnKirsch.github.io/rsschool-cv
+https://LynnKirsch.github.io/rsschool-cv/
 
